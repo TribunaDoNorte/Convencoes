@@ -3,7 +3,6 @@
 Convenções adotadas no ambiente de trabalho para o setor de TI da Tribuna do Norte.
 
 ##Git
----
 Como ferramenta para controle de versão de projetos, utilizamos o [Git](http://git-scm.com/).
 
 ###Branches
@@ -14,7 +13,6 @@ Principais branches usados estão listados abaixo.
 3. master
 
 ##Códigos
----
 Todos os códigos `js`, `css`, `php` e `ruby` deverão ter indentação de `dois caracteres`, para uma melhor visualização.
 
 ###classes
